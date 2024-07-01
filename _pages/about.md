@@ -168,8 +168,8 @@ Remote Sensing Laboratory at University of Florida, Gainesville, FL, United Stat
 ### SCHOLARSHIPS
 ---
 - *2024* UMIACS Fellowship
-- *2022|2021* UF Herbert Wertheim College of Engineering Engineering Achieve Award 
-- *2020|2018* Zhejiang Government Scholarship
+- *2022/2021* UF Herbert Wertheim College of Engineering Engineering Achieve Award 
+- *2020/2018* Zhejiang Government Scholarship
 - *2019* First Class School Financial Aid for Overseas Exchange Program
 
 ### COMPETITIONS
@@ -183,6 +183,6 @@ Remote Sensing Laboratory at University of Florida, Gainesville, FL, United Stat
 # 💬 Academic Services
 ### Reviewer
 ---
-- 2023|2024 IEEE International Conference on Robotics and Automation (ICRA)
-- 2023|2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+- 2023/2024 IEEE International Conference on Robotics and Automation (ICRA)
+- 2023/2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 - IEEE Journal of Oceanic Engineering (IEEE JOE)
