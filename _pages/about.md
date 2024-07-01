@@ -151,19 +151,26 @@ This project is my master's thesis, we have submitted a journal to the IEEE Tran
 
 # 🏭 Job Experience
 
+- ***Research Assistant*** --------- *May. 2024- Present*  
+University of Maryland, College Park, MD, United States.
+
+- ***Teaching Assistant*** --------- *Aug. 2023- May. 2024*  
+University of Maryland, College Park, MD, United States.
+
 - ***Digital Audio and Video Algorithm Engineer*** --------- *May. 2022- Aug. 2022*  
 Vobile, Santa Clara, CA, United States.
 
-- ***Graduate Student Assistant*** --------- *Jan. 2022- present*  
+- ***Graduate Student Assistant*** --------- *Jan. 2022- Jan. 2023*  
 Remote Sensing Laboratory at University of Florida, Gainesville, FL, United States.
 
 # 🏅 Honors and Awards
 
 ### SCHOLARSHIPS
 ---
-- *2020.12* Zhejiang Government Scholarship
-- *2019.09* First Class School Financial Aid for Overseas Exchange Program
-- *2018.12* Zhejiang Government Scholarship
+- *2024* UMIACS Fellowship
+- *2022|2021* UF Herbert Wertheim College of Engineering Engineering Achieve Award 
+- *2020|2018* Zhejiang Government Scholarship
+- *2019* First Class School Financial Aid for Overseas Exchange Program
 
 ### COMPETITIONS
 ---
@@ -176,6 +183,6 @@ Remote Sensing Laboratory at University of Florida, Gainesville, FL, United Stat
 # 💬 Academic Services
 ### Reviewer
 ---
-- 2023/2024 IEEE International Conference on Robotics and Automation (ICRA)
-- 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+- 2023|2024 IEEE International Conference on Robotics and Automation (ICRA)
+- 2023|2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 - IEEE Journal of Oceanic Engineering (IEEE JOE)
