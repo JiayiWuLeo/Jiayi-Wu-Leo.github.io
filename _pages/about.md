@@ -110,6 +110,9 @@ Supervised by [Prof. Md Jahidul Islam](https://jahid.ece.ufl.edu/).
 - A. K. Roberts, `J. Wu`, A. Monsivais-Huertero, J. Judge, R. C. Moore and K. Sarabandi, ***Microwave Backscatter Phenomenology of Corn Fields at L-Band Using a Full-Wave Electromagnetic Solver***, *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1-11, 2024, Art no. 2000511, doi: 10.1109/TGRS.2023.3340198.  
 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10347257)
 
+- Kaiser Niknam, Jasmeet Judge, A. Kaleo Roberts, Alejandro Monsivais-Huertero, Robert Moore, Kamal Sarabandi, `Jiayi Wu`, ***A 3-D Full-Wave Model to Study the Impact of Soybean Components and Structure on L-Band Backscatter***, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, doi: 10.1109/JSTARS.2024.3426366.  
+[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10592797)
+
 # 📖 Patents
 
 - [[CN212400777U]](https://patents.google.com/patent/CN212400777U) Stilt type deformation wheel  
