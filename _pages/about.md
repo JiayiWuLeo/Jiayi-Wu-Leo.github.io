@@ -188,6 +188,7 @@ Remote Sensing Laboratory at University of Florida, Gainesville, FL, United Stat
 # 💬 Academic Services
 ### Reviewer
 ---
+- 2024 Conference on Neural Information Processing Systems (NeurIPS)
 - 2023/2024 IEEE International Conference on Robotics and Automation (ICRA)
 - 2023/2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 - IEEE Journal of Oceanic Engineering (IEEE JOE)
