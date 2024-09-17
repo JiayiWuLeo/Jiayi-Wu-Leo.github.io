@@ -38,6 +38,8 @@ Welcome to my academic homepage. I am Jiayi Wu, a Ph.D. student supervised by [P
 
 # 📢 News
 
+- 2024/09/15: Our paper [“ViewActive: Active viewpoint optimization from a single image”](https://arxiv.org/abs/2409.09997) has been submitted to ICRA 2025.
+
 - 2024/09/04: ***Our paper [“Event3DGS: Event-Based 3D Gaussian Splatting for High-Speed Robot Egomotion”](https://arxiv.org/abs/2406.02972) has been accepted by CoRL 2024 !!!***
 
 - 2024/06/30: ***Our paper [“MARVIS: Motion & Geometry Aware Real and Virtual Image Segmentation”](https://arxiv.org/abs/2403.09850) has been accepted by IROS 2024 !!!***
