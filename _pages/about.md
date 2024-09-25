@@ -86,12 +86,19 @@ Supervised by [Prof. Md Jahidul Islam](https://jahid.ece.ufl.edu/).
 
 ### Conference Papers
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2024</div><img src='images/MARVIS.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Xiong, Tianyi*, `Wu, Jiayi`*, Botao He, Cornelia Fermuller, Yiannis Aloimonos, Heng Huang, and Christopher Metzler. ***Event3DGS: Event-based 3D Gaussian Splatting for High-speed Robot Egomotion***. *CoRL 2024*  
+[[Project Page]](https://tyxiong23.github.io/event3dgs) [[Arxiv]](https://arxiv.org/abs/2406.02972)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/MARVIS.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Wu, Jiayi`, Xiaomin Lin, Shahriar Negahdaripour, Cornelia Fermüller, and Yiannis Aloimonos. ***MARVIS: Motion & Geometry Aware Real and Virtual Image Segmentation***. *IEEE IROS 2024*  
-[[IEEE Xplore]](https://arxiv.org/abs/2403.09850) [[Poster]](/pdf/MARVIS_S3AM_Summit_Poster_Jiayi Wu.pdf) [[Video demo]](https://youtu.be/roiOpPyAvZ0)
-
+-	`Wu, Jiayi`*, Lin, Xiaomin*, Shahriar Negahdaripour, Cornelia Fermüller, and Yiannis Aloimonos. ***MARVIS: Motion & Geometry Aware Real and Virtual Image Segmentation***. *IEEE IROS 2024*  
+[[Arxiv]](https://arxiv.org/abs/2403.09850) [[Poster]](/pdf/MARVIS_S3AM_Summit_Poster_Jiayi Wu.pdf)
 </div>
 </div>
 
@@ -99,7 +106,7 @@ Supervised by [Prof. Md Jahidul Islam](https://jahid.ece.ufl.edu/).
 <div class='paper-box-text' markdown="1">
 
 -	`Wu, Jiayi`, Yu, Boxiao, Islam, Md Jahidul. ***3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection***. *IEEE CAI 2023 (Best Paper Award)*  
-[[Arxiv]](https://ieeexplore.ieee.org/document/10195131) [[Poster]](https://robopi.ece.ufl.edu/files/pubs/sdu_sfm.pdf) [[Video demo]](https://youtu.be/roiOpPyAvZ0)
+[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10195131) [[Poster]](https://robopi.ece.ufl.edu/files/pubs/sdu_sfm.pdf) [[Video demo]](https://youtu.be/roiOpPyAvZ0)
 
 </div>
 </div>
