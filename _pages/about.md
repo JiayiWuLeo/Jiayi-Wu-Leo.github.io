@@ -89,7 +89,7 @@ Supervised by [Prof. Md Jahidul Islam](https://jahid.ece.ufl.edu/).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2024</div><img src='images/Event3DGS.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Xiong, Tianyi*, `Wu, Jiayi`*, Botao He, Cornelia Fermuller, Yiannis Aloimonos, Heng Huang, and Christopher Metzler. ***Event3DGS: Event-based 3D Gaussian Splatting for High-speed Robot Egomotion***. *CoRL 2024*  
+-	Xiong, Tianyi\*, `Wu, Jiayi`\*, Botao He, Cornelia Fermuller, Yiannis Aloimonos, Heng Huang, and Christopher Metzler. ***Event3DGS: Event-based 3D Gaussian Splatting for High-speed Robot Egomotion***. *CoRL 2024*  
 [[Project Page]](https://tyxiong23.github.io/event3dgs) [[Arxiv]](https://arxiv.org/abs/2406.02972)
 </div>
 </div>
@@ -97,7 +97,7 @@ Supervised by [Prof. Md Jahidul Islam](https://jahid.ece.ufl.edu/).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/MARVIS.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Wu, Jiayi`*, Lin, Xiaomin*, Shahriar Negahdaripour, Cornelia Fermüller, and Yiannis Aloimonos. ***MARVIS: Motion & Geometry Aware Real and Virtual Image Segmentation***. *IEEE IROS 2024*  
+-	`Wu, Jiayi`\*, Lin, Xiaomin\*, Shahriar Negahdaripour, Cornelia Fermüller, and Yiannis Aloimonos. ***MARVIS: Motion & Geometry Aware Real and Virtual Image Segmentation***. *IEEE IROS 2024*  
 [[Arxiv]](https://arxiv.org/abs/2403.09850) [[Poster]](/pdf/MARVIS_S3AM_Summit_Poster_Jiayi Wu.pdf)
 </div>
 </div>
