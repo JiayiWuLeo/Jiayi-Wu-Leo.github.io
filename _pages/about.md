@@ -90,7 +90,7 @@ Supervised by [Prof. Md Jahidul Islam](https://jahid.ece.ufl.edu/).
 <div class='paper-box-text' markdown="1">
 
 -	`Wu, Jiayi`, Xiaomin Lin, Shahriar Negahdaripour, Cornelia Fermüller, and Yiannis Aloimonos. ***MARVIS: Motion & Geometry Aware Real and Virtual Image Segmentation***. *IEEE IROS 2024*  
-[[IEEE Xplore]](https://arxiv.org/abs/2403.09850) [[Poster]](https://robopi.ece.ufl.edu/files/pubs/sdu_sfm.pdf) [[Video demo]](https://youtu.be/roiOpPyAvZ0)
+[[IEEE Xplore]](https://arxiv.org/abs/2403.09850) [[Poster]](/pdf/MARVIS_S3AM_Summit_Poster_Jiayi Wu.pdf) [[Video demo]](https://youtu.be/roiOpPyAvZ0)
 
 </div>
 </div>
