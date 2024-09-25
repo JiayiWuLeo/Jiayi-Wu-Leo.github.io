@@ -86,7 +86,7 @@ Supervised by [Prof. Md Jahidul Islam](https://jahid.ece.ufl.edu/).
 
 ### Conference Papers
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2024</div><img src='images/Event3DGS.gif' alt="sym" width="105%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2024</div><img src='images/Event3DGS.gif' alt="sym" width="107%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Xiong, Tianyi\*, `Wu, Jiayi`\*, Botao He, Cornelia Fermuller, Yiannis Aloimonos, Heng Huang, and Christopher Metzler. ***Event3DGS: Event-based 3D Gaussian Splatting for High-speed Robot Egomotion***. *CoRL 2024*  
